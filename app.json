@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "remindme",
+    "slug": "remindme",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "fe90f41f-97ce-4010-a2fd-52574d6fa211"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "android": {
+      "package": "react.juris.eulerjs"
+    },
+    "ios": {}
+  }
+}
